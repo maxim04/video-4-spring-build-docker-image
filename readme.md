@@ -1,6 +1,5 @@
 # Build a docker image with spring boot maven plugin
 
----
 ## Build docker image with "prod" profile
 `./mvnw -Pprod install`
 
